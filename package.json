@@ -4,7 +4,8 @@
   "description": "A utility to test if a 'value' has a type of 'Object' and is not null",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "prepublish": "npm test"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,30 @@
+{
+  "name": "@icluster/type-is-object",
+  "version": "1.0.0",
+  "description": "A utility to test if a 'value' has a type of 'Object' and is not null",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iClusterDev/type-is-object.git"
+  },
+  "keywords": [
+    "utils",
+    "type",
+    "object",
+    "isobject",
+    "is-object",
+    "isObject"
+  ],
+  "author": "iClusterDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iClusterDev/type-is-object/issues"
+  },
+  "homepage": "https://github.com/iClusterDev/type-is-object#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}

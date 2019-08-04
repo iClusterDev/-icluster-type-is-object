@@ -1,5 +1,5 @@
 {
-  "name": "@icluster/type-is-object",
+  "name": "type-is-object",
   "version": "1.0.0",
   "description": "A utility to test if a 'value' has a type of 'Object' and is not null",
   "main": "index.js",

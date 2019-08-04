@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/iClusterDev/type-is-object/issues"
   },
-  "homepage": "https://github.com/iClusterDev/type-is-object#readme",
+  "homepage": "https://iclusterdev.github.io/type-is-object/",
   "devDependencies": {
     "mocha": "^6.2.0"
   }

@@ -1,6 +1,6 @@
 {
   "name": "type-is-object",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "A utility to test if a 'value' has a type of 'Object' and is not null",
   "main": "index.js",
   "scripts": {

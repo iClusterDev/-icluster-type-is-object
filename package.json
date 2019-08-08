@@ -13,6 +13,7 @@
   "scripts": {
     "test": "mocha",
     "build": "rollup -c",
+    "prepare": "rollup -c",
     "prepublish": "npm test"
   },
   "engines": {

@@ -1,5 +1,5 @@
 var assert = require('assert');
-var isObject = require('../index.js');
+var isObject = require('../index.cjs.js');
 
 describe('IsObject', function() {
   describe('on null', function() {

@@ -1,6 +1,6 @@
 {
   "name": "type-is-object",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A utility to test if a 'value' has a type of 'Object' and is not null",
   "main": "index.cjs.js",
   "module": "index.js",

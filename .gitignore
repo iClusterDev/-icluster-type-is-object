@@ -1,2 +1,10 @@
+# npm
 node_modules/
 *.log
+
+# misc
+temp
+tmp
+package-lock.json
+browser
+index.cjs.js

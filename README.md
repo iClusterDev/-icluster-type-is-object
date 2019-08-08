@@ -54,4 +54,4 @@ If you find any issues, feel free to submit a pull request
 
 ## License
 
-This project is under the [MIT](LICENSE.md) License
+This project is under the [MIT](LICENSE) License

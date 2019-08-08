@@ -5,7 +5,7 @@ export default [
     input: './index.js',
     output: {
       format: 'iife',
-      file: 'browser/type-is-object.js',
+      file: 'dist/type-is-object.js',
       name: 'typeIsObject'
     },
     plugins: [nodeResolve()]

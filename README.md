@@ -12,6 +12,8 @@ npm i type-is-object
 
 ## Usage
 
+In Node (CommonJS)
+
 ```js
 const isObject = require('type-is-object');
 
@@ -42,6 +44,20 @@ console.log(
     return 'bar';
   })
 );
+```
+
+In the Browser (ES6 modules):
+
+```js
+import isObject from 'type-is-object';
+
+...
+```
+
+Alternatively copy the .dist/type-is-object.js file, in your assets folder and use it directly in a `<script>` tag:
+
+```html
+<script type="module" src="./my-assets/type-is-object.js"></script>
 ```
 
 ## Contributing

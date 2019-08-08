@@ -2,10 +2,21 @@
   "name": "type-is-object",
   "version": "1.0.7",
   "description": "A utility to test if a 'value' has a type of 'Object' and is not null",
-  "main": "index.js",
+  "main": "index.cjs.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.cjs.js",
+    "index.js",
+    "index.d.ts"
+  ],
   "scripts": {
     "test": "mocha",
+    "build": "rollup -c",
     "prepublish": "npm test"
+  },
+  "engines": {
+    "node": ">=0.10.0"
   },
   "repository": {
     "type": "git",
@@ -26,6 +37,8 @@
   },
   "homepage": "https://iclusterdev.github.io/type-is-object/",
   "devDependencies": {
-    "mocha": "^6.2.0"
+    "mocha": "^6.2.0",
+    "rollup": "^1.19.4",
+    "rollup-plugin-node-resolve": "^5.2.0"
   }
 }

@@ -5,5 +5,6 @@ node_modules/
 # misc
 temp
 tmp
+dist
 package-lock.json
 index.cjs.js

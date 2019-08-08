@@ -1,4 +1,4 @@
-var typeIsObject = (function () {
+var isObject = (function () {
   'use strict';
 
   function isObject(value) {

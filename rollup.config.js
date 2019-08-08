@@ -6,7 +6,7 @@ export default [
     output: {
       format: 'iife',
       file: 'dist/type-is-object.js',
-      name: 'typeIsObject'
+      name: 'isObject'
     },
     plugins: [nodeResolve()]
   },
